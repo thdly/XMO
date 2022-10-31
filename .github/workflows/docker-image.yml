@@ -1,4 +1,4 @@
-name: Build Docker Image
+name: xm
 on:
   workflow_dispatch:
 jobs:
